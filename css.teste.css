@@ -1,0 +1,49 @@
+h1{
+    text-align: center;
+    background-color: white;
+}
+h2{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+h3{ 
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+div{
+    margin: 0%;
+}
+fieldset{
+    text-align: center;
+    background-color: white;
+}
+body{
+    background-color: black;
+}
+
+form{
+    background-color: white;
+}
+input{
+    background: lightgray;
+    
+}
+select{
+    background-color: lightgray;
+}
+button{
+    background-color: lightgray;
+}
+@media screen and (min-whidt 1000px) {
+    div{
+        background-color: black;
+    }
+    
+}
+@media screen and (max-whidth 400px) {
+    div {
+        background-color: black;
+    }    
+}
